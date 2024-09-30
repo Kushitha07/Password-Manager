@@ -1,4 +1,4 @@
-rom tkinter import messagebox
+from tkinter import messagebox
 from zxcvbn import zxcvbn
 from datetime import timedelta
 from cryptography.fernet import Fernet
